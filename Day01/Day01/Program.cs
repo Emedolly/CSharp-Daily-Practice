@@ -12,5 +12,7 @@ ReverseArray _reverseArray = new ReverseArray();
 CountEvenOdd _countEvenOdd = new CountEvenOdd();
 //_countEvenOdd.Run();
 PrimeNumber _primeNumber = new PrimeNumber();
-_primeNumber.Run(10);
+//_primeNumber.Run(7);
+ReverseString _reverseString = new ReverseString();
+_reverseString.Run();
 //Console.WriteLine("Hello, World!");
