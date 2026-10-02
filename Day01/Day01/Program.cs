@@ -20,5 +20,5 @@ Palindrome _palindrome = new Palindrome();
 CountVowels _countVowels = new CountVowels();
 //_countVowels.Run();
 CountCharacters _countCharacters = new CountCharacters();
-_countCharacters.Run();
+//_countCharacters.Run();
 //Console.WriteLine("Hello, World!");
