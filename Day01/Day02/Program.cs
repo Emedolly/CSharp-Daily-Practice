@@ -20,5 +20,7 @@ ListOfNames _listOfNames = new ListOfNames();
 WordCount _wordCount = new WordCount();
 //_wordCount.Run();
 PhoneBook _phoneBook = new PhoneBook();
-_phoneBook.Run("Eme");
+//_phoneBook.Run("Eme");
+charFrequency _charFrequency = new charFrequency();
+_charFrequency.Run();
 Console.WriteLine("Hello, World!");
